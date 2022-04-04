@@ -1,1 +1,1 @@
-# playground-github-actions
+Quickstart from https://docs.github.com/en/actions/quickstart
